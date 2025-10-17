@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F1501F8-6E22-4D4B-9157-17D731B06812}|WpfApp1\\WpfApp1.csproj|D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\wpfapp1\\simpson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F1501F8-6E22-4D4B-9157-17D731B06812}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\simpson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC18B887-CA66-4249-BE69-D0EFC6EA1CB5}|TestProject1\\TestProject1.csproj|d:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\wpfapp1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC18B887-CA66-4249-BE69-D0EFC6EA1CB5}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F1501F8-6E22-4D4B-9157-17D731B06812}|WpfApp1\\WpfApp1.csproj|D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5F1501F8-6E22-4D4B-9157-17D731B06812}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F1501F8-6E22-4D4B-9157-17D731B06812}|WpfApp1\\WpfApp1.csproj|d:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\wpfapp1\\wpfapp1\\metod primoygolnh trapecii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F1501F8-6E22-4D4B-9157-17D731B06812}|WpfApp1\\WpfApp1.csproj|D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\wpfapp1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1501F8-6E22-4D4B-9157-17D731B06812}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1501F8-6E22-4D4B-9157-17D731B06812}|WpfApp1\\WpfApp1.csproj|D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\wpfapp1\\simpson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1501F8-6E22-4D4B-9157-17D731B06812}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\simpson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1501F8-6E22-4D4B-9157-17D731B06812}|WpfApp1\\WpfApp1.csproj|D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\wpfapp1\\metod primoygolnh trapecii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F1501F8-6E22-4D4B-9157-17D731B06812}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\metod primoygolnh trapecii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F1501F8-6E22-4D4B-9157-17D731B06812}|WpfApp1\\WpfApp1.csproj|D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F1501F8-6E22-4D4B-9157-17D731B06812}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F1501F8-6E22-4D4B-9157-17D731B06812}|WpfApp1\\WpfApp1.csproj|D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\wpfapp1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F1501F8-6E22-4D4B-9157-17D731B06812}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,43 +34,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "metod primoygolnh trapecii.cs",
-              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\WpfApp1\\metod primoygolnh trapecii.cs",
-              "RelativeDocumentMoniker": "WpfApp1\\metod primoygolnh trapecii.cs",
-              "ToolTip": "D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\WpfApp1\\metod primoygolnh trapecii.cs",
-              "RelativeToolTip": "WpfApp1\\metod primoygolnh trapecii.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T04:31:52.297Z",
+              "WhenOpened": "2025-10-14T12:30:26.995Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:13:41.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Simpson.cs",
               "DocumentMoniker": "D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\WpfApp1\\Simpson.cs",
               "RelativeDocumentMoniker": "WpfApp1\\Simpson.cs",
               "ToolTip": "D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\WpfApp1\\Simpson.cs",
               "RelativeToolTip": "WpfApp1\\Simpson.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T04:59:09.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T04:59:09.268Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "metod primoygolnh trapecii.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\WpfApp1\\metod primoygolnh trapecii.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\metod primoygolnh trapecii.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\WpfApp1\\metod primoygolnh trapecii.cs",
+              "RelativeToolTip": "WpfApp1\\metod primoygolnh trapecii.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T04:31:52.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "calculator.cs",
               "DocumentMoniker": "D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\WpfApp1\\calculator.cs",
               "RelativeDocumentMoniker": "WpfApp1\\calculator.cs",
               "ToolTip": "D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\WpfApp1\\calculator.cs",
               "RelativeToolTip": "WpfApp1\\calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T10:57:44.974Z"
             },
@@ -79,24 +106,7 @@
               "ToolTip": "D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\WpfApp1\\MainWindow.xaml",
               "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-29T07:13:42.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u0432\u044B\u0447 \u043F\u0430\u0440 \u043E\u0431\u0440 \u0434\u0430\u043D \u0432 visual studio\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
-              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T07:13:41.054Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-09-29T07:13:42.851Z"
             }
           ]
         }

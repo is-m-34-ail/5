@@ -22,7 +22,7 @@ namespace WpfApp1
         public MainWindow()
         {
             InitializeComponent();
-            calculator = new TrapezoidalIntegralCalculator(x => Math.Sin(x));
+            calculator = new TrapezoidalIntegralCalculator(x => ((x) * (x)));
         }
         private void CalculateButton_Click(object sender, RoutedEventArgs e)
         {
@@ -32,9 +32,9 @@ namespace WpfApp1
             {
                 // Выбор метода по RadioButton (например)
                 if (MethodSimpsonRadio.IsChecked == true)
-                    calculator = new SimpsonIntegralCalculator(x => Math.Sin(x));
+                    calculator = new SimpsonIntegralCalculator(x => ((x)*(x)));
                 else
-                    calculator = new TrapezoidalIntegralCalculator(x => Math.Sin(x));
+                    calculator = new TrapezoidalIntegralCalculator(x => ((x) * (x)));
 
                 double result = calculator.Calculate(a, b, n);
                 ResultText.Text = $"Результат: {result:F6}";
